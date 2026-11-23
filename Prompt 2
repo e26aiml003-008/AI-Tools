@@ -1,0 +1,51 @@
+Gemini AI Prompt
+
+Prompt: Smart Timetable Generator – 4-Week Project Timeline
+
+Act as an experienced Project Manager and software development mentor.
+
+I want to build a project called Smart Timetable Generator. Create a detailed and realistic 4-week project timeline to complete this project successfully.
+
+Project Objective
+
+Develop a Smart Timetable Generator that automatically creates an optimized timetable based on subjects, teachers, classrooms, available time slots, and student preferences.
+
+Instructions
+
+1. Divide the project into 4 weeks with clear weekly goals.
+2. Break each week into daily tasks (Monday to Sunday).
+3. Identify the technologies, programming languages, and tools required.
+4. Include frontend and backend development tasks.
+5. Plan database design and implementation.
+6. Include timetable generation logic and conflict detection.
+7. Add testing and debugging activities.
+8. Include GitHub repository management and documentation.
+9. Allocate time for project review and improvements.
+10. Define measurable deliverables for each week.
+
+Expected Output
+
+Present the project plan in a table with these columns:
+
+- Week and Day
+- Task Description
+- Technologies/Tools
+- Expected Deliverable
+- Estimated Time
+
+Additional Requirements
+
+- Keep the plan beginner-friendly and suitable for college students.
+- Prioritize important tasks.
+- Include possible challenges and their solutions.
+- Suggest ways to manage time effectively.
+- Include a final project demonstration and presentation in Week 4.
+
+At the end, provide:
+
+1. Complete 4-week roadmap.
+2. Technology stack recommendation.
+3. Final project checklist.
+4. GitHub submission checklist.
+
+Make the timeline practical, organized, and achievable within 28 days.
