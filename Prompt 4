@@ -1,0 +1,15 @@
+Cyber Security Article Summarization 
+
+
+
+Act as a professional summarizer.
+Read a 300-word article about Cyber Security and summarize it in exactly 60 words. 
+Include all the main ideas, important points, and key information using simple English.
+
+After summarizing:
+
+1. Check whether all main ideas are included.
+2. Identify any missing important points.
+3. Suggest improvements if needed.
+
+Expected Output: A clear 60-word summary with all essential ideas.
